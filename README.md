@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alankar-nine-nine
 - 👀 I’m interested in superhero movies, C, C++, Java also, I like knowing about current affairs in software and hardware industry.
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning Java Script
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
